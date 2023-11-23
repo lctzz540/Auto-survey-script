@@ -1,0 +1,8 @@
+{
+  "name": "autosurvey",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.4.0"
+  }
+}
